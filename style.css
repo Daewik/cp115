@@ -1,0 +1,7 @@
+canvas{
+    background-color: aqua;
+    animation-name: cool;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border: 5px solid black;
+}
